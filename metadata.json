@@ -1,0 +1,6 @@
+{
+  "name": "چی دیدم؟! 😳 - Telegram AI Content Engine",
+  "description": "سیستم خودکار کشف، هوش مصنوعی، بومی‌سازی فارسی و انتشار مطالب ترند تکنولوژی در کانال تلگرام چی دیدم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
